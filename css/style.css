@@ -1,0 +1,38 @@
+.carousel-own {
+    background-color: #fceae8;
+    border-radius: 20px;
+}
+
+.round-own img {
+    width: 100px;
+}
+
+.own-shoe {
+    border: none;
+    border-radius: 15px;
+}
+
+.own-footer {
+    border: none;
+    background-color: white;
+}
+
+.header-style {
+    color: orange;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.get-own {
+    height: 250px;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+
+.own-btn {
+    display: block;
+}
+
+.own-logo {
+    width: 50px;
+}
